@@ -51,7 +51,6 @@ matplotlib==3.7.1
 mdurl==0.1.2
 mediapipe==0.10.0
 ml-dtypes==0.1.0
-msvc-runtime
 numexpr==2.8.4
 numpy==1.23.5
 oauthlib==3.2.2
