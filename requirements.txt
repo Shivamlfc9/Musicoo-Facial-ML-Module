@@ -54,9 +54,9 @@ ml-dtypes==0.1.0
 numexpr==2.8.4
 numpy==1.23.5
 oauthlib==3.2.2
+opencv-python-headless
 opencv-contrib-python
 opencv-python
-opencv-python-headless
 opt-einsum==3.3.0
 packaging==23.1
 pandas==2.0.1
