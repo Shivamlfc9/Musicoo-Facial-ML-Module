@@ -5,4 +5,5 @@ mediapipe==0.9.2.1
 av
 numpy
 keras
+pandas==3.0.0
 
