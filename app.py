@@ -123,7 +123,7 @@ if btn:
 		st.session_state["run"] = "false"
 
 
-st.write('Made with ❤ by [Shivam](https://github.com/Shivamlfc9/Musicoo-Facial-ML-Module)')
+st.write('Made with ❤ by [Shivam_Achrekar](https://github.com/Shivamlfc9/Musicoo-Facial-ML-Module)')
 
 #Streamlit Customisation
 st.markdown(""" <style>
